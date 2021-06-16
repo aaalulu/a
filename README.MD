@@ -1,4 +1,4 @@
-## How to use:
+### How to use:
 ```bash
 python top_movers.py
 ```
@@ -11,7 +11,7 @@ need to configure some settings in top_movers.py file:
 - logos_folder_path
 
 
-What it is:
+### What it is:
 - retrieves the markets from FTX and Binance and filter them to keep only the futures/spots with a USD/USDT quote preferably
 	(there are more than 700 markets from FTX, after filtering there are less than 200. as for Binance it's more than 1500 markets 
 	reduce to a little bit more than 200. so in the end that's arround 400 markets, with a majority of duplicate markets)
