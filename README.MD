@@ -6,4 +6,4 @@
 - top_movers -> python scripts to get the 1D/7D/30D top movers
 
 
-note: look at the @@Prod annotations before deploying
+*note: look at the @@Prod annotations before deploying*
